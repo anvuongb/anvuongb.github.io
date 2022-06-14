@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi, this is my personal where I write about interesting and stupid stuffs all over the places.
