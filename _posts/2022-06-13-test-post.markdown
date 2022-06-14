@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Testing post"
+date:   2022-06-13 21:11:58 -0700
+categories: blog test
+---
+This is a test blog post
