@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![me and my girlfriend](/assets/images/P_20220207_163318.jpg){: width="250" }
+![me and my girlfriend](/assets/images/IMG20240104102815.jpg){: width="250" }
 
 I'm currently a PhD student at Oregon State University in Electrical & Computer Engineering Department.
 
