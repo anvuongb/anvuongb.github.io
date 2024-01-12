@@ -25,7 +25,7 @@ Lille is not exactly a big city compared to US standard, but the public transpor
 |:--:| 
 | *Mix and match between businesses and residential in Lille* |
 
-$10 and an hour later, Flixbus got me to Ghent's central station. I arrived at 8am, when the sun was still asleep, no shops were open, and outside temperature was 1°C. I recommend better trip planning in foreign places. That said, 45 minutes, Belgian beauty came in full force.
+$10 and an hour later, Flixbus got me to Ghent's central station. I arrived at 8am, when the sun was still asleep, no shops were open, and outside temperature was 1°C. I recommend better trip planning in foreign places. That said, 45 minutes later, Belgian beauty came in full force.
 
 | ![Ghent center](/assets/images/france2024/ghent_1.jpg) |
 |:--:| 
