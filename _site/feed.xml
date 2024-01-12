@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-13T21:46:06-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">an’s personal page</title><subtitle>This is my personal website, it contains things I find interesting across multiple disciplines. It also serves as my notes during my studies.</subtitle><entry><title type="html">Simulated ball of mud</title><link href="http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud.html" rel="alternate" type="text/html" title="Simulated ball of mud" /><published>2021-12-13T20:11:58-08:00</published><updated>2021-12-13T20:11:58-08:00</updated><id>http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud</id><content type="html" xml:base="http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud.html">&lt;p&gt;Recently I’ve given much thought to the simulation hypothesis, mainly after reading the following books&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-12T11:09:39-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">an’s personal page</title><subtitle>This is my personal website, it contains things I find interesting across multiple disciplines. It also serves as my notes during my studies.</subtitle><entry><title type="html">My trip to France (part 1)</title><link href="http://localhost:4000/travel/2024/01/12/my-trip-to-france.html" rel="alternate" type="text/html" title="My trip to France (part 1)" /><published>2024-01-12T00:00:00-08:00</published><updated>2024-01-12T00:00:00-08:00</updated><id>http://localhost:4000/travel/2024/01/12/my-trip-to-france</id><content type="html" xml:base="http://localhost:4000/travel/2024/01/12/my-trip-to-france.html">&lt;p&gt;Coming back to the US from my winter break vacation in France, this is a short reflection on the trip.&lt;/p&gt;
+
+&lt;h1 id=&quot;city-architecture--planning&quot;&gt;City architecture &amp;amp; planning&lt;/h1&gt;
+&lt;p&gt;Simply put, cities in the US are a joke compared to those in Europe. Or at least compared to those I visited this trip: Paris, Lille, Ghent, Amsterdam. The renaissance looking buildings can be found at every corner with impressive craftmanship. Unlike the ridiculous zoning in the US, these cities allow mix and match between small business shops and residential spaces, which results in a much more vibrant neighborhood.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/lille_center.jpg&quot; alt=&quot;Lille center&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Lille central metro &amp;amp; train station&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It seems to me that European cities really prioritize public transport over personal vehicles like cars. For example, in Lille, I could get to every important places I needed to go by metro, or bus, or even better, by tram. Granted, these won’t get you to the front door of your desired destination, 5-10 minutes of walking is expected for each trip, and this is a good thing. During my 2 weeks here I hardly saw any overweight person, not exactly a thing that can be said for the US.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/lille_center2.jpg&quot; alt=&quot;Lille center 2&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Lille square&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Lille is not exactly a big city compared to US standard, but the public transport system and its connectedness to surrounding regions are so good. You can get to anywhere in the city within 30 minutes by using either underground metro (probably the fastest), or by bus (more stops), or by tram (great sightseeing). To put a cherry on top, from the 2 central stations (Lille Flandres and Lille Europe), there are TGV trains that will take you to Paris under 60 minutes AND without the hassle of security check like flying. $10-$20 Flixbus will also take you to Ghent, Brussle, Rotterdam, Amsterdam and many more. There is no need to own a car living like this, amazing.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/lille_center3.jpg&quot; alt=&quot;Lille center 3&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Mix and match between businesses and residential in Lille&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;$10 and an hour later, Flibus got me to Ghent’s central station. I arrived at 8am, when the sun was still asleep, no shops were open, and outside temperature was 1°C. I recommend better trip planning in foreign places. That said, 45 minutes, Belgian beauty came in full force.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/ghent_1.jpg&quot; alt=&quot;Ghent center&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Ghent center&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/ghent_2.jpg&quot; alt=&quot;Ghent center&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Still Ghent center&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In Ghent, the main public transport method is tram. I didn’t spend much time here so I can’t really say how good it is. But I did travel on 1 tram from start to finish and that tram took me directly from the city center to the surburb where you can find big mansions houses and IKEA centers. Another impressive thing about Ghent is the bicycles. People bike a lot, there are huge parking lots JUST FOR BIKES!&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/ghent_3.jpg&quot; alt=&quot;Ghent bike lot&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;A bike parking lot in Ghent&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Planning and zoning are similar to that of Lille, and it seems to be the norm across Europe. Within a radius of 500 meters there are: a huge cathedral for tourists, a hospital, some restaturants, a convenient store, some clothes shops, and a residential building. This is what a living city should look like, not a spread out dead zones like most cities in the US.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/france2024/ghent_4.jpg&quot; alt=&quot;Ghent bridge&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Cathedral in Ghent&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="travel" /><summary type="html">Coming back to the US from my winter break vacation in France, this is a short reflection on the trip.</summary></entry><entry><title type="html">Simulated ball of mud</title><link href="http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud.html" rel="alternate" type="text/html" title="Simulated ball of mud" /><published>2021-12-13T20:11:58-08:00</published><updated>2021-12-13T20:11:58-08:00</updated><id>http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud</id><content type="html" xml:base="http://localhost:4000/simulated/universe/2021/12/13/simulated-ball-of-mud.html">&lt;p&gt;Recently I’ve given much thought to the simulation hypothesis, mainly after reading the following books&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;The simulation hypothesis&lt;/li&gt;
   &lt;li&gt;The simulated multiverse&lt;/li&gt;
