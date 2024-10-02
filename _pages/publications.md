@@ -16,7 +16,7 @@ Ho-Van, K., Nguyen-Duc, T., **Vuong-Binh, A.**, Do-Dac, T., Nguyen-Huu, T., & Ph
 
 Tutorial on Stochastic differential equations and Generative modelling (Summer 2024). [[pdf]](../assets/pdfs/course_projects/Tutorial_on_Stochastic_differential_equations_and_Generative_modelling.pdf)
 
-A review of hardware-based acceleration of Ray tracing (Winter 2024). [[website]](https://me.anvuong.dev/ece570page/2024-03-19-final-project-report)
+A review of hardware-based acceleration of Ray tracing (Winter 2024). *ECE570 Advanced Computer Architecture - Final project.* [[website]](https://me.anvuong.dev/ece570page/2024-03-19-final-project-report)
 
 Bias-Variance Analysis of Support Vector Machines for the Development of SVM-Based Ensemble Methods. (Winter 2024). *ECE599 Statistical Learning - Final project.* [[pdf]](../assets/pdfs/course_projects/Stat_learn_project.pdf)
 
