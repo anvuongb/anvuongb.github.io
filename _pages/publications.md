@@ -12,3 +12,16 @@ Nguyen, N., **Vuong, A.**, Nguyen, T., & Nguyen, T. (2024) On Minimizing Symbol 
 
 Ho-Van, K., Nguyen-Duc, T., **Vuong-Binh, A.**, Do-Dac, T., Nguyen-Huu, T., & Pham-Hong, L. (2017). On information securing capability of cognitive radio networks under primary interference and artificial noise. *2017 International Conference on System Science and Engineering (ICSSE), 525–529.*
 
+## Other writtings
+
+Tutorial on Stochastic differential equations and Generative modelling (Summer 2024). [[pdf]](../assets/pdfs/course_projects/Tutorial_on_Stochastic_differential_equations_and_Generative_modelling.pdf)
+
+A review of hardware-based acceleration of Ray tracing (Winter 2024). [[website]](https://me.anvuong.dev/ece570page/2024-03-19-final-project-report)
+
+Bias-Variance Analysis of Support Vector Machines for the Development of SVM-Based Ensemble Methods. (Winter 2024). *ECE599 Statistical Learning - Final project.* [[pdf]](../assets/pdfs/course_projects/Stat_learn_project.pdf)
+
+Wavelet denoising (Fall 2023). *ECE565 Estimation Theory - Final project.* [[pdf]](../assets/pdfs/course_projects/ECE565_project.pdf)
+
+Reading report of Transmit Beamforming for Physical-Layer Multicasting (Fall 2022). *ECE599 Convex Optimization - Final project.* [[pdf]](../assets/pdfs/course_projects/Convex_optimization_Final_project.pdf)
+
+Reading report of Accelerated Multiplicative Updates and Hierarchical ALS Algorithms for Nonnegative Matrix Factorization (Spring 2022). *ECE599 Matrix Analysis - Final project.* [[pdf]](../assets/pdfs/course_projects/Matrix_Analysis_final_project.pdf)
