@@ -2,7 +2,12 @@
 permalink: /about/
 title: "About"
 ---
+## About me
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi there, welcome to my personal website. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm currently a 3rd-year PhD student at Oregon State University in EECS department. My current research focus on diffusion process from information theoretical perspective. I also worked on problems in signal process area such as channel capacity characterization, physical-layer security, and secrecy outage probability. 
+
+Previously, I worked as Senior Machine Learning Engineer at [VNG Corp](https://vng.com.vn/) in Ho Chi Minh City. During this time, I helped lead the Machine Learning team to train models and architecting production systems for eKYC system. The products, [TrueID](https://trueid.ai/), are being used by multiple banks and financial groups in Vietnam. The tech stack for this includes: Tensorflow, Pytorch, TensorRT for modelling; Python, C++, Golang for API and backend services; Docker, Kubernetes, Jenkins, Gitlab/Bitbucket for orchestration and deployment.
+
+For more detail, please refer to [Publications]({% link _pages/publications.md %}) and [CV]({% link _pages/cv.md %}). If you are recruiting and are interested in my profile, do send me an email at [anvuongbk13@gmail.com](mailto:anvuongbk13@gmail.com?subject=Email).
