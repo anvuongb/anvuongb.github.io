@@ -2,9 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
-**Vuong, A.**, Nguyen, A., & Nguyen, T. (2024). Active Data Acquisition - An Information Theoretic Approach. *under review - preprint.* [[pdf]](../assets/pdfs/papers/active2024.pdf)
+**Vuong, A.**, Nguyen, A., & Nguyen, T. (2024). Active Data Acquisition - An Information Theoretic Approach. *2025 Workshop on Computing, Networking and Communications (ICNC’25)* [[pdf]](../assets/pdfs/papers/active2024-v2.pdf)
 
-**Vuong, A.**, & Nguyen, T. (2024). SDE-based Multiplicative Noise Removal. *under review - ArXiv Preprint ArXiv:2408.10283.* [[pdf]](https://arxiv.org/pdf/2408.10283) [[code]](https://github.com/anvuongb/sde_multiplicative_noise_removal)
+**Vuong, A.**, & Nguyen, T. (2024). Perception-based multiplicative noise removal using SDEs. *under review - Preprint ArXiv:2408.10283.* [[pdf]](https://arxiv.org/pdf/2408.10283) [[code]](https://github.com/anvuongb/sde_multiplicative_noise_removal)
 
 Nguyen, N., **Vuong, A.**, Nguyen, T., & Nguyen, T. (2024) On Minimizing Symbol Error Probability for Antipodal Beamforming in MIMO Gaussian Wiretap Channels. *2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall).*
  
