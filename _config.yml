@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: hi there, i'm An
-email: anvuongbk13@gmail.com
+# email: anvuongbk13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vuong's personal website
 # twitter_username: username
@@ -63,9 +63,9 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "Email"
-      icon: "fab fa-fw fa-google"
-      url: "mailto:anvuongbk13@gmail.com?subject=Email"
+    # - label: "Email"
+      # icon: "fab fa-fw fa-google"
+      # url: "mailto:anvuongbk13@gmail.com?subject=Email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/an-vuong-a63478140/"
@@ -78,9 +78,9 @@ footer:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "Email"
-      icon: "fab fa-fw fa-google"
-      url: "mailto:anvuongbk13@gmail.com?subject=Email"
+    #- label: "Email"
+      #icon: "fab fa-fw fa-google"
+      #url: "mailto:anvuongbk13@gmail.com?subject=Email"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/an-vuong-a63478140/"
