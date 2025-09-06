@@ -1,5 +1,5 @@
 ---
-# title: "Blog"
+title: "Blog"
 # layout: posts
 layout: single
 permalink: /blog/
