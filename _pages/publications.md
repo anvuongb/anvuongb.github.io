@@ -4,7 +4,7 @@ title: "Publications"
 ---
 **Vuong, A.**, McCann, M., Santos, J., & Lin, YT. (2025). Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching. *preprint* [[pdf]](https://arxiv.org/pdf/2509.00336)
 
-**Vuong, A.**, Nguyen, T., Nguyen, A., & Nguyen, D. (2025). Active Data Acquisition with Side information. *preprint* [[pdf]](../assets/pdfs/papers/active2025.pdf)
+**Vuong, A.**, Nguyen, T., Nguyen, A., & Nguyen, T. (2025). Active Data Acquisition with Side information. *preprint* [[pdf]](../assets/pdfs/papers/active2025.pdf)
 
 **Vuong, A.**, Nguyen, A., & Nguyen, T. (2024). Active Data Acquisition - An Information Theoretic Approach. *2025 Workshop on Computing, Networking and Communications (ICNC’25)* [[pdf]](../assets/pdfs/papers/active2024-v2.pdf)
 
