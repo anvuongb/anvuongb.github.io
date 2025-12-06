@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-**Vuong, A.**, McCann, M., Santos, J., & Lin, YT. (2025). Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching. *SPIGM Workshop @ NeurIPS 2025* [[pdf]](https://arxiv.org/pdf/2509.00336)
+**Vuong, A.**, McCann, M., Santos, J., & Lin, YT. (2025). Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching. *SPIGM Workshop @ NeurIPS 2025* [[pdf]](https://arxiv.org/pdf/2509.00336), *Accepted to [[TMLR]](https://openreview.net/forum?id=CzyJqXQRhJ)* 
 
 **Vuong, A.**, Nguyen, T., Nguyen, A., & Nguyen, T. (2025). Active Data Acquisition with Side information. *preprint* [[pdf]](../assets/pdfs/papers/active2025.pdf)
 
